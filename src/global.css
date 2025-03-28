@@ -1,1 +1,8 @@
 @import "tailwindcss";
+
+
+*{
+    font-family:'jost',sans-serif;
+    transition-duration:300ms ;
+    scroll-behavior: smooth;
+}
